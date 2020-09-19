@@ -1,3 +1,3 @@
-# To-Do-List
+# To-Do-List com Implemantação de DnD estilo trello
 Esqueleto do projeto MVP
-Implemantação de DnD estilo trello
+
